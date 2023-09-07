@@ -52,6 +52,10 @@ ABHISHEK-SER Multi Device Whatsapp Bot.
 
 <a href="https://railway.app/new"><img title="ABHISHEK-SER Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
 
+---
+### Railway Tutorial
+
+<a href="https://youtu.be/2Eqmo8lzLPU?si=zSdAvrAm3ji22I6t"><img title="Rayilway Tutorial" src="https://img.shields.io/badge/RAYILWAY TUTORIAL-h?color=black&style=for-the-badge&logo=Railway"></a>
 
 ---
 ### Deploy Mogenius
@@ -59,14 +63,29 @@ ABHISHEK-SER Multi Device Whatsapp Bot.
 <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="ABHISHEK-SER Deploy Mogenius" src="https://img.shields.io/badge/DEPLOY MOGENIUS-h?color=black&style=for-the-badge&logo=genius"></a>
 
 ---
-### Deploy Coolify
+### Mogenius Tutorial
 
-<a href="https://coolify.io/"><img title="ABHISHEK-SER Deploy Coolify" src="https://img.shields.io/badge/DEPLOY COOLIFY-h?color=black&style=for-the-badge&logo=coolify"></a>
+<a href="https://youtu.be/Xb1-Oh1_msQ"><img title="Mogenius Tutorial" src="https://img.shields.io/badge/MOGENIUS TUTORIAL-h?color=black&style=for-the-badge&logo=genius"></a>
 
 ---
 ### Deploy Koyeb
 
 <a href="https://app.koyeb.com"><img title="ABHISHEK-SER Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY KOYEB-h?color=black&style=for-the-badge&logo=koyeb"></a>
+
+---
+### Deploy On Render
+
+<a href='https://dashboard.render.com' target="_blank"><img alt='ABHISHEK-SER Deploy Render' src='https://img.shields.io/badge/-DEPLOY RENDER-black?style=for-the-badge&logo=render'/></a>
+
+---
+### Deploy On Coolify
+
+<a href='https://coolify.io/' target="_blank"><img alt='ABHISHEK-SER Deploy Coolify' src='https://img.shields.io/badge/-DEPLOY COOLIFY-black?style=for-the-badge&logo=C'/></a>
+
+---
+### Deploy On Uffizzi
+
+<a href='https://www.uffizzi.com/' target="_blank"><img alt='ABHISHEK-SER Deploy Uffizzi' src='https://img.shields.io/badge/-DEPLOY UFFIZZI-black?style=for-the-badge&logo=D'/></a>
 
 ---
 ### Deploy Replit
